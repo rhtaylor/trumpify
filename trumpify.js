@@ -1,4 +1,4 @@
-
+//named trump.js if attemping to use in the html file
 
 class TrumpMe extends React.Component{
   constructor(){
