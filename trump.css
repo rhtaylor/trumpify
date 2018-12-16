@@ -15,8 +15,3 @@ h2 {
 h3 {
   color: white;
 }
-class TrumpMe extends React.Component{
-  constructor(){
-    super();
-    this.state = { speech: ''};
-  }
